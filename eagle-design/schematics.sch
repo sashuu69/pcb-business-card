@@ -11512,6 +11512,180 @@ distributor Buerklin, 17G584</description>
 </deviceset>
 </devicesets>
 </library>
+<library name="ATMEGA328P-AU">
+<packages>
+<package name="QFP80P900X900X120-32N">
+<wire x1="3.4" y1="3.4" x2="3.4" y2="-3.4" width="0.1524" layer="21"/>
+<wire x1="3.4" y1="-3.4" x2="-3.4" y2="-3.4" width="0.1524" layer="21"/>
+<wire x1="-3.4" y1="-3.4" x2="-3.4" y2="3.4" width="0.1524" layer="21"/>
+<wire x1="-3.4" y1="3.4" x2="3.4" y2="3.4" width="0.1524" layer="21"/>
+<circle x="-2.7432" y="2.7432" radius="0.3592" width="0.1524" layer="21"/>
+<text x="-5.57938125" y="5.63088125" size="0.814375" layer="25">&gt;NAME</text>
+<text x="-5.52646875" y="-6.514559375" size="0.81336875" layer="27">&gt;VALUE</text>
+<rectangle x1="-4.49693125" y1="2.571590625" x2="-3.506" y2="3.0286" layer="51"/>
+<rectangle x1="-4.50498125" y1="1.7747" x2="-3.506" y2="2.2286" layer="51"/>
+<rectangle x1="-4.500090625" y1="0.97215625" x2="-3.506" y2="1.4286" layer="51"/>
+<rectangle x1="-4.50036875" y1="0.17154375" x2="-3.506" y2="0.6286" layer="51"/>
+<rectangle x1="-4.50256875" y1="-0.629434375" x2="-3.506" y2="-0.1714" layer="51"/>
+<rectangle x1="-4.50186875" y1="-1.43028125" x2="-3.506" y2="-0.9714" layer="51"/>
+<rectangle x1="-4.50138125" y1="-2.23096875" x2="-3.506" y2="-1.7714" layer="51"/>
+<rectangle x1="-4.50128125" y1="-3.03175" x2="-3.506" y2="-2.5714" layer="51"/>
+<rectangle x1="-3.03458125" y1="-4.50548125" x2="-2.5714" y2="-3.506" layer="51"/>
+<rectangle x1="-2.230459375" y1="-4.50035" x2="-1.7714" y2="-3.506" layer="51"/>
+<rectangle x1="-1.43093125" y1="-4.503940625" x2="-0.9714" y2="-3.506" layer="51"/>
+<rectangle x1="-0.628771875" y1="-4.497840625" x2="-0.1714" y2="-3.506" layer="51"/>
+<rectangle x1="0.1716" y1="-4.501840625" x2="0.6286" y2="-3.506" layer="51"/>
+<rectangle x1="0.971784375" y1="-4.49838125" x2="1.4286" y2="-3.506" layer="51"/>
+<rectangle x1="1.77431875" y1="-4.504009375" x2="2.2286" y2="-3.506" layer="51"/>
+<rectangle x1="2.57515" y1="-4.50315" x2="3.0286" y2="-3.506" layer="51"/>
+<rectangle x1="3.506709375" y1="-3.029209375" x2="4.4966" y2="-2.5714" layer="51"/>
+<rectangle x1="3.51286875" y1="-2.23296875" x2="4.4966" y2="-1.7714" layer="51"/>
+<rectangle x1="3.51128125" y1="-1.43075" x2="4.4966" y2="-0.9714" layer="51"/>
+<rectangle x1="3.509259375" y1="-0.629184375" x2="4.4966" y2="-0.1714" layer="51"/>
+<rectangle x1="3.50885" y1="0.1715375" x2="4.4966" y2="0.6286" layer="51"/>
+<rectangle x1="3.51123125" y1="0.972846875" x2="4.4966" y2="1.4286" layer="51"/>
+<rectangle x1="3.51065" y1="1.77375" x2="4.4966" y2="2.2286" layer="51"/>
+<rectangle x1="3.511440625" y1="2.575390625" x2="4.4966" y2="3.0286" layer="51"/>
+<rectangle x1="2.57641875" y1="3.51285" x2="3.0286" y2="4.4966" layer="51"/>
+<rectangle x1="1.77408125" y1="3.511309375" x2="2.2286" y2="4.4966" layer="51"/>
+<rectangle x1="0.972196875" y1="3.50888125" x2="1.4286" y2="4.4966" layer="51"/>
+<rectangle x1="0.17140625" y1="3.506109375" x2="0.6286" y2="4.4966" layer="51"/>
+<rectangle x1="-0.62981875" y1="3.512790625" x2="-0.1714" y2="4.4966" layer="51"/>
+<rectangle x1="-1.42951875" y1="3.50826875" x2="-0.9714" y2="4.4966" layer="51"/>
+<rectangle x1="-2.23255" y1="3.51221875" x2="-1.7714" y2="4.4966" layer="51"/>
+<rectangle x1="-3.0316" y1="3.50946875" x2="-2.5714" y2="4.4966" layer="51"/>
+<wire x1="-5.5" y1="-5.5" x2="5.5" y2="-5.5" width="0.05" layer="39"/>
+<wire x1="5.5" y1="-5.5" x2="5.5" y2="5.5" width="0.05" layer="39"/>
+<wire x1="5.5" y1="5.5" x2="-5.5" y2="5.5" width="0.05" layer="39"/>
+<wire x1="-5.5" y1="5.5" x2="-5.5" y2="-5.5" width="0.05" layer="39"/>
+<circle x="-4.5" y="3.75" radius="0.254" width="0" layer="21"/>
+<smd name="1" x="-4.3" y="2.8" dx="1.5" dy="0.55" layer="1"/>
+<smd name="2" x="-4.3" y="2" dx="1.5" dy="0.55" layer="1"/>
+<smd name="3" x="-4.3" y="1.2" dx="1.5" dy="0.55" layer="1"/>
+<smd name="4" x="-4.3" y="0.4" dx="1.5" dy="0.55" layer="1"/>
+<smd name="5" x="-4.3" y="-0.4" dx="1.5" dy="0.55" layer="1"/>
+<smd name="6" x="-4.3" y="-1.2" dx="1.5" dy="0.55" layer="1"/>
+<smd name="7" x="-4.3" y="-2" dx="1.5" dy="0.55" layer="1"/>
+<smd name="8" x="-4.3" y="-2.8" dx="1.5" dy="0.55" layer="1"/>
+<smd name="9" x="-2.8" y="-4.3" dx="0.55" dy="1.5" layer="1"/>
+<smd name="10" x="-2" y="-4.3" dx="0.55" dy="1.5" layer="1"/>
+<smd name="11" x="-1.2" y="-4.3" dx="0.55" dy="1.5" layer="1"/>
+<smd name="12" x="-0.4" y="-4.3" dx="0.55" dy="1.5" layer="1"/>
+<smd name="13" x="0.4" y="-4.3" dx="0.55" dy="1.5" layer="1"/>
+<smd name="14" x="1.2" y="-4.3" dx="0.55" dy="1.5" layer="1"/>
+<smd name="15" x="2" y="-4.3" dx="0.55" dy="1.5" layer="1"/>
+<smd name="16" x="2.8" y="-4.3" dx="0.55" dy="1.5" layer="1"/>
+<smd name="17" x="4.3" y="-2.8" dx="1.5" dy="0.55" layer="1"/>
+<smd name="18" x="4.3" y="-2" dx="1.5" dy="0.55" layer="1"/>
+<smd name="19" x="4.3" y="-1.2" dx="1.5" dy="0.55" layer="1"/>
+<smd name="20" x="4.3" y="-0.4" dx="1.5" dy="0.55" layer="1"/>
+<smd name="21" x="4.3" y="0.4" dx="1.5" dy="0.55" layer="1"/>
+<smd name="22" x="4.3" y="1.2" dx="1.5" dy="0.55" layer="1"/>
+<smd name="23" x="4.3" y="2" dx="1.5" dy="0.55" layer="1"/>
+<smd name="24" x="4.3" y="2.8" dx="1.5" dy="0.55" layer="1"/>
+<smd name="25" x="2.8" y="4.3" dx="0.55" dy="1.5" layer="1"/>
+<smd name="26" x="2" y="4.3" dx="0.55" dy="1.5" layer="1"/>
+<smd name="27" x="1.2" y="4.3" dx="0.55" dy="1.5" layer="1"/>
+<smd name="28" x="0.4" y="4.3" dx="0.55" dy="1.5" layer="1"/>
+<smd name="29" x="-0.4" y="4.3" dx="0.55" dy="1.5" layer="1"/>
+<smd name="30" x="-1.2" y="4.3" dx="0.55" dy="1.5" layer="1"/>
+<smd name="31" x="-2" y="4.3" dx="0.55" dy="1.5" layer="1"/>
+<smd name="32" x="-2.8" y="4.3" dx="0.55" dy="1.5" layer="1"/>
+</package>
+</packages>
+<symbols>
+<symbol name="ATMEGA328P-AU">
+<wire x1="10.16" y1="27.94" x2="10.16" y2="-27.94" width="0.254" layer="94"/>
+<wire x1="10.16" y1="-27.94" x2="-10.16" y2="-27.94" width="0.254" layer="94"/>
+<wire x1="-10.16" y1="-27.94" x2="-10.16" y2="27.94" width="0.254" layer="94"/>
+<wire x1="-10.16" y1="27.94" x2="10.16" y2="27.94" width="0.254" layer="94"/>
+<text x="-10.1755" y="29.2546" size="2.54388125" layer="95">&gt;NAME</text>
+<text x="-10.1669" y="-31.7714" size="2.54171875" layer="96">&gt;VALUE</text>
+<pin name="VCC" x="15.24" y="22.86" length="middle" direction="pwr" rot="R180"/>
+<pin name="GND" x="15.24" y="-25.4" length="middle" direction="pwr" rot="R180"/>
+<pin name="PB0" x="-15.24" y="17.78" length="middle"/>
+<pin name="PB1" x="-15.24" y="15.24" length="middle"/>
+<pin name="PB2" x="-15.24" y="12.7" length="middle"/>
+<pin name="PB3" x="-15.24" y="10.16" length="middle"/>
+<pin name="PB4" x="-15.24" y="7.62" length="middle"/>
+<pin name="PB5" x="-15.24" y="5.08" length="middle"/>
+<pin name="PB6" x="-15.24" y="2.54" length="middle"/>
+<pin name="PB7" x="-15.24" y="0" length="middle"/>
+<pin name="PC0" x="-15.24" y="-5.08" length="middle"/>
+<pin name="PC1" x="-15.24" y="-7.62" length="middle"/>
+<pin name="PC2" x="-15.24" y="-10.16" length="middle"/>
+<pin name="PC3" x="-15.24" y="-12.7" length="middle"/>
+<pin name="PC4" x="-15.24" y="-15.24" length="middle"/>
+<pin name="PC5" x="-15.24" y="-17.78" length="middle"/>
+<pin name="PC6/!RESET" x="-15.24" y="-20.32" length="middle"/>
+<pin name="PD0" x="15.24" y="17.78" length="middle" rot="R180"/>
+<pin name="PD1" x="15.24" y="15.24" length="middle" rot="R180"/>
+<pin name="PD2" x="15.24" y="12.7" length="middle" rot="R180"/>
+<pin name="PD3" x="15.24" y="10.16" length="middle" rot="R180"/>
+<pin name="PD4" x="15.24" y="7.62" length="middle" rot="R180"/>
+<pin name="PD5" x="15.24" y="5.08" length="middle" rot="R180"/>
+<pin name="PD6" x="15.24" y="2.54" length="middle" rot="R180"/>
+<pin name="PD7" x="15.24" y="0" length="middle" rot="R180"/>
+<pin name="AREF" x="-15.24" y="22.86" length="middle" direction="in"/>
+<pin name="AVCC" x="15.24" y="25.4" length="middle" direction="pwr" rot="R180"/>
+<pin name="ADC6" x="15.24" y="-5.08" length="middle" rot="R180"/>
+<pin name="ADC7" x="15.24" y="-7.62" length="middle" rot="R180"/>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="ATMEGA328P-AU" prefix="U">
+<description>ATmega Series 20 MHz 32 KB Flash 2 KB SRAM 8-Bit Microcontroller - TQFP-32 &lt;a href="https://pricing.snapeda.com/parts/ATMEGA328P-AU/Microchip%20Technology/view-part?ref=eda"&gt;Check prices&lt;/a&gt;</description>
+<gates>
+<gate name="G$1" symbol="ATMEGA328P-AU" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="QFP80P900X900X120-32N">
+<connects>
+<connect gate="G$1" pin="ADC6" pad="19"/>
+<connect gate="G$1" pin="ADC7" pad="22"/>
+<connect gate="G$1" pin="AREF" pad="20"/>
+<connect gate="G$1" pin="AVCC" pad="18"/>
+<connect gate="G$1" pin="GND" pad="3 5 21"/>
+<connect gate="G$1" pin="PB0" pad="12"/>
+<connect gate="G$1" pin="PB1" pad="13"/>
+<connect gate="G$1" pin="PB2" pad="14"/>
+<connect gate="G$1" pin="PB3" pad="15"/>
+<connect gate="G$1" pin="PB4" pad="16"/>
+<connect gate="G$1" pin="PB5" pad="17"/>
+<connect gate="G$1" pin="PB6" pad="7"/>
+<connect gate="G$1" pin="PB7" pad="8"/>
+<connect gate="G$1" pin="PC0" pad="23"/>
+<connect gate="G$1" pin="PC1" pad="24"/>
+<connect gate="G$1" pin="PC2" pad="25"/>
+<connect gate="G$1" pin="PC3" pad="26"/>
+<connect gate="G$1" pin="PC4" pad="27"/>
+<connect gate="G$1" pin="PC5" pad="28"/>
+<connect gate="G$1" pin="PC6/!RESET" pad="29"/>
+<connect gate="G$1" pin="PD0" pad="30"/>
+<connect gate="G$1" pin="PD1" pad="31"/>
+<connect gate="G$1" pin="PD2" pad="32"/>
+<connect gate="G$1" pin="PD3" pad="1"/>
+<connect gate="G$1" pin="PD4" pad="2"/>
+<connect gate="G$1" pin="PD5" pad="9"/>
+<connect gate="G$1" pin="PD6" pad="10"/>
+<connect gate="G$1" pin="PD7" pad="11"/>
+<connect gate="G$1" pin="VCC" pad="4 6"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="AVAILABILITY" value="In Stock"/>
+<attribute name="DESCRIPTION" value=" AVR AVR® ATmega Microcontroller IC 8-Bit 20MHz 32KB (16K x 16) FLASH 32-TQFP (7x7) "/>
+<attribute name="MF" value="Microchip Technology"/>
+<attribute name="MP" value="ATMEGA328P-AU"/>
+<attribute name="PACKAGE" value="TQFP-32 Microchip"/>
+<attribute name="PRICE" value="None"/>
+</technology>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -11539,22 +11713,25 @@ distributor Buerklin, 17G584</description>
 <part name="R5" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="220Ω"/>
 <part name="R6" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="220Ω"/>
 <part name="R7" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="220Ω"/>
+<part name="U1" library="ATMEGA328P-AU" deviceset="ATMEGA328P-AU" device=""/>
+<part name="C3" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="100nF"/>
 </parts>
 <sheets>
 <sheet>
 <plain>
-<text x="160.02" y="76.2" size="2.54" layer="91">Programmer</text>
+<text x="25.4" y="167.64" size="2.54" layer="91">Programmer</text>
 <text x="96.52" y="58.42" size="2.54" layer="91">Power Micro-USB</text>
 <text x="20.32" y="129.54" size="2.54" layer="91">0.96 Inch OLED Display</text>
-<text x="160.02" y="38.1" size="2.54" layer="91">LED Functionalities</text>
+<text x="83.82" y="167.64" size="2.54" layer="91">LED Functionalities</text>
 <text x="96.52" y="124.46" size="2.54" layer="91">RESET Switch</text>
 <text x="91.44" y="93.98" size="2.54" layer="91">Micro-Controller Clock</text>
 <text x="40.64" y="55.88" size="2.54" layer="91">Switch Set</text>
+<text x="182.88" y="137.16" size="2.54" layer="91">Micro-controller</text>
 </plain>
 <instances>
-<instance part="J1" gate="G$1" x="162.56" y="66.04" smashed="yes">
-<attribute name="NAME" x="160.02" y="72.644" size="1.27" layer="95"/>
-<attribute name="VALUE" x="160.02" y="55.88" size="1.27" layer="96"/>
+<instance part="J1" gate="G$1" x="27.94" y="157.48" smashed="yes">
+<attribute name="NAME" x="25.4" y="164.084" size="1.27" layer="95"/>
+<attribute name="VALUE" x="25.4" y="147.32" size="1.27" layer="96"/>
 </instance>
 <instance part="J2" gate="G$1" x="106.68" y="30.48" smashed="yes" rot="R180">
 <attribute name="NAME" x="106.68" y="12.7" size="1.778" layer="95" rot="R180" align="center"/>
@@ -11564,21 +11741,21 @@ distributor Buerklin, 17G584</description>
 <attribute name="NAME" x="25.4" y="109.22" size="1.778" layer="95"/>
 <attribute name="VALUE" x="25.4" y="71.12" size="1.778" layer="96"/>
 </instance>
-<instance part="R1" gate="G$1" x="165.1" y="27.94" smashed="yes">
-<attribute name="NAME" x="161.29" y="29.4386" size="1.778" layer="95"/>
-<attribute name="VALUE" x="161.29" y="24.638" size="1.778" layer="96"/>
+<instance part="R1" gate="G$1" x="88.9" y="157.48" smashed="yes">
+<attribute name="NAME" x="85.09" y="158.9786" size="1.778" layer="95"/>
+<attribute name="VALUE" x="85.09" y="154.178" size="1.778" layer="96"/>
 </instance>
-<instance part="R2" gate="G$1" x="165.1" y="17.78" smashed="yes">
-<attribute name="NAME" x="161.29" y="19.2786" size="1.778" layer="95"/>
-<attribute name="VALUE" x="161.29" y="14.478" size="1.778" layer="96"/>
+<instance part="R2" gate="G$1" x="88.9" y="147.32" smashed="yes">
+<attribute name="NAME" x="85.09" y="148.8186" size="1.778" layer="95"/>
+<attribute name="VALUE" x="85.09" y="144.018" size="1.778" layer="96"/>
 </instance>
-<instance part="UNLOCK_LED" gate="G$1" x="177.8" y="27.94" smashed="yes" rot="R90">
-<attribute name="NAME" x="187.452" y="31.496" size="1.778" layer="95" rot="R180"/>
-<attribute name="VALUE" x="182.372" y="33.655" size="1.778" layer="96" rot="R180"/>
+<instance part="UNLOCK_LED" gate="G$1" x="101.6" y="157.48" smashed="yes" rot="R90">
+<attribute name="NAME" x="111.252" y="161.036" size="1.778" layer="95" rot="R180"/>
+<attribute name="VALUE" x="106.172" y="163.195" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="POWER_LED" gate="G$1" x="177.8" y="17.78" smashed="yes" rot="R90">
-<attribute name="NAME" x="187.452" y="21.336" size="1.778" layer="95" rot="R180"/>
-<attribute name="VALUE" x="182.372" y="23.495" size="1.778" layer="96" rot="R180"/>
+<instance part="POWER_LED" gate="G$1" x="101.6" y="147.32" smashed="yes" rot="R90">
+<attribute name="NAME" x="111.252" y="150.876" size="1.778" layer="95" rot="R180"/>
+<attribute name="VALUE" x="106.172" y="153.035" size="1.778" layer="96" rot="R180"/>
 </instance>
 <instance part="S1" gate="1" x="114.3" y="111.76" smashed="yes" rot="R270">
 <attribute name="NAME" x="111.76" y="118.11" size="1.778" layer="95"/>
@@ -11620,6 +11797,14 @@ distributor Buerklin, 17G584</description>
 <attribute name="NAME" x="26.67" y="11.6586" size="1.778" layer="95"/>
 <attribute name="VALUE" x="26.67" y="6.858" size="1.778" layer="96"/>
 </instance>
+<instance part="U1" gate="G$1" x="195.58" y="99.06" smashed="yes">
+<attribute name="NAME" x="185.4045" y="128.3146" size="2.54388125" layer="95"/>
+<attribute name="VALUE" x="185.4131" y="67.2886" size="2.54171875" layer="96"/>
+</instance>
+<instance part="C3" gate="G$1" x="170.18" y="121.92" smashed="yes" rot="R90">
+<attribute name="NAME" x="167.259" y="123.444" size="1.778" layer="95"/>
+<attribute name="VALUE" x="174.879" y="118.364" size="1.778" layer="96" rot="R180"/>
+</instance>
 </instances>
 <busses>
 </busses>
@@ -11627,8 +11812,8 @@ distributor Buerklin, 17G584</description>
 <net name="GND" class="0">
 <segment>
 <pinref part="J1" gate="G$1" pin="1"/>
-<wire x1="170.18" y1="68.58" x2="180.34" y2="68.58" width="0.1524" layer="91"/>
-<label x="175.26" y="68.58" size="1.778" layer="95"/>
+<wire x1="35.56" y1="160.02" x2="45.72" y2="160.02" width="0.1524" layer="91"/>
+<label x="40.64" y="160.02" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="J2" gate="G$1" pin="GND"/>
@@ -11643,13 +11828,13 @@ distributor Buerklin, 17G584</description>
 </segment>
 <segment>
 <pinref part="UNLOCK_LED" gate="G$1" pin="C"/>
-<wire x1="182.88" y1="27.94" x2="200.66" y2="27.94" width="0.1524" layer="91"/>
-<label x="195.58" y="27.94" size="1.778" layer="95"/>
+<wire x1="106.68" y1="157.48" x2="124.46" y2="157.48" width="0.1524" layer="91"/>
+<label x="119.38" y="157.48" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="POWER_LED" gate="G$1" pin="C"/>
-<wire x1="182.88" y1="17.78" x2="200.66" y2="17.78" width="0.1524" layer="91"/>
-<label x="195.58" y="17.78" size="1.778" layer="95"/>
+<wire x1="106.68" y1="147.32" x2="124.46" y2="147.32" width="0.1524" layer="91"/>
+<label x="119.38" y="147.32" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="C1" gate="G$1" pin="1"/>
@@ -11682,12 +11867,22 @@ distributor Buerklin, 17G584</description>
 <wire x1="25.4" y1="10.16" x2="15.24" y2="10.16" width="0.1524" layer="91"/>
 <label x="15.24" y="10.16" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="C3" gate="G$1" pin="1"/>
+<wire x1="167.64" y1="121.92" x2="154.94" y2="121.92" width="0.1524" layer="91"/>
+<label x="154.94" y="121.92" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="U1" gate="G$1" pin="GND"/>
+<wire x1="210.82" y1="73.66" x2="226.06" y2="73.66" width="0.1524" layer="91"/>
+<label x="220.98" y="73.66" size="1.778" layer="95"/>
+</segment>
 </net>
 <net name="5V" class="0">
 <segment>
 <pinref part="J1" gate="G$1" pin="2"/>
-<wire x1="170.18" y1="66.04" x2="180.34" y2="66.04" width="0.1524" layer="91"/>
-<label x="177.8" y="66.04" size="1.778" layer="95"/>
+<wire x1="35.56" y1="157.48" x2="45.72" y2="157.48" width="0.1524" layer="91"/>
+<label x="43.18" y="157.48" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="J2" gate="G$1" pin="VCC"/>
@@ -11702,8 +11897,8 @@ distributor Buerklin, 17G584</description>
 </segment>
 <segment>
 <pinref part="R2" gate="G$1" pin="1"/>
-<wire x1="160.02" y1="17.78" x2="152.4" y2="17.78" width="0.1524" layer="91"/>
-<label x="152.4" y="17.78" size="1.778" layer="95"/>
+<wire x1="83.82" y1="147.32" x2="76.2" y2="147.32" width="0.1524" layer="91"/>
+<label x="76.2" y="147.32" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="R3" gate="G$1" pin="1"/>
@@ -11730,19 +11925,39 @@ distributor Buerklin, 17G584</description>
 <wire x1="66.04" y1="20.32" x2="76.2" y2="20.32" width="0.1524" layer="91"/>
 <label x="73.66" y="20.32" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="U1" gate="G$1" pin="VCC"/>
+<wire x1="210.82" y1="121.92" x2="213.36" y2="121.92" width="0.1524" layer="91"/>
+<pinref part="U1" gate="G$1" pin="AVCC"/>
+<wire x1="213.36" y1="121.92" x2="226.06" y2="121.92" width="0.1524" layer="91"/>
+<wire x1="210.82" y1="124.46" x2="213.36" y2="124.46" width="0.1524" layer="91"/>
+<wire x1="213.36" y1="124.46" x2="213.36" y2="121.92" width="0.1524" layer="91"/>
+<junction x="213.36" y="121.92"/>
+<label x="223.52" y="121.92" size="1.778" layer="95"/>
+</segment>
 </net>
 <net name="TX" class="0">
 <segment>
 <pinref part="J1" gate="G$1" pin="3"/>
-<wire x1="170.18" y1="63.5" x2="180.34" y2="63.5" width="0.1524" layer="91"/>
-<label x="177.8" y="63.5" size="1.778" layer="95"/>
+<wire x1="35.56" y1="154.94" x2="45.72" y2="154.94" width="0.1524" layer="91"/>
+<label x="43.18" y="154.94" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="U1" gate="G$1" pin="PD1"/>
+<wire x1="210.82" y1="114.3" x2="226.06" y2="114.3" width="0.1524" layer="91"/>
+<label x="223.52" y="114.3" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="RX" class="0">
 <segment>
 <pinref part="J1" gate="G$1" pin="4"/>
-<wire x1="170.18" y1="60.96" x2="180.34" y2="60.96" width="0.1524" layer="91"/>
-<label x="177.8" y="60.96" size="1.778" layer="95"/>
+<wire x1="35.56" y1="152.4" x2="45.72" y2="152.4" width="0.1524" layer="91"/>
+<label x="43.18" y="152.4" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="U1" gate="G$1" pin="PD0"/>
+<wire x1="210.82" y1="116.84" x2="226.06" y2="116.84" width="0.1524" layer="91"/>
+<label x="223.52" y="116.84" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="SDA" class="0">
@@ -11752,6 +11967,11 @@ distributor Buerklin, 17G584</description>
 <wire x1="43.18" y1="116.84" x2="53.34" y2="116.84" width="0.1524" layer="91"/>
 <label x="48.26" y="116.84" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="U1" gate="G$1" pin="PC4"/>
+<wire x1="180.34" y1="83.82" x2="157.48" y2="83.82" width="0.1524" layer="91"/>
+<label x="157.48" y="83.82" size="1.778" layer="95"/>
+</segment>
 </net>
 <net name="SCL" class="0">
 <segment>
@@ -11760,26 +11980,36 @@ distributor Buerklin, 17G584</description>
 <wire x1="40.64" y1="119.38" x2="53.34" y2="119.38" width="0.1524" layer="91"/>
 <label x="48.26" y="119.38" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="U1" gate="G$1" pin="PC5"/>
+<wire x1="180.34" y1="81.28" x2="157.48" y2="81.28" width="0.1524" layer="91"/>
+<label x="157.48" y="81.28" size="1.778" layer="95"/>
+</segment>
 </net>
 <net name="D6" class="0">
 <segment>
 <pinref part="R1" gate="G$1" pin="1"/>
-<wire x1="160.02" y1="27.94" x2="152.4" y2="27.94" width="0.1524" layer="91"/>
-<label x="152.4" y="27.94" size="1.778" layer="95"/>
+<wire x1="83.82" y1="157.48" x2="76.2" y2="157.48" width="0.1524" layer="91"/>
+<label x="76.2" y="157.48" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="U1" gate="G$1" pin="PD6"/>
+<wire x1="210.82" y1="101.6" x2="226.06" y2="101.6" width="0.1524" layer="91"/>
+<label x="223.52" y="101.6" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$1" class="0">
 <segment>
 <pinref part="UNLOCK_LED" gate="G$1" pin="A"/>
 <pinref part="R1" gate="G$1" pin="2"/>
-<wire x1="175.26" y1="27.94" x2="170.18" y2="27.94" width="0.1524" layer="91"/>
+<wire x1="99.06" y1="157.48" x2="93.98" y2="157.48" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$3" class="0">
 <segment>
 <pinref part="POWER_LED" gate="G$1" pin="A"/>
 <pinref part="R2" gate="G$1" pin="2"/>
-<wire x1="175.26" y1="17.78" x2="170.18" y2="17.78" width="0.1524" layer="91"/>
+<wire x1="99.06" y1="147.32" x2="93.98" y2="147.32" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$2" class="0">
@@ -11805,6 +12035,11 @@ distributor Buerklin, 17G584</description>
 <label x="127" y="111.76" size="1.778" layer="95"/>
 <wire x1="121.92" y1="111.76" x2="134.62" y2="111.76" width="0.1524" layer="91"/>
 </segment>
+<segment>
+<pinref part="U1" gate="G$1" pin="PC6/!RESET"/>
+<wire x1="180.34" y1="78.74" x2="157.48" y2="78.74" width="0.1524" layer="91"/>
+<label x="157.48" y="78.74" size="1.778" layer="95"/>
+</segment>
 </net>
 <net name="TOSC1" class="0">
 <segment>
@@ -11816,6 +12051,11 @@ distributor Buerklin, 17G584</description>
 <label x="124.46" y="86.36" size="1.778" layer="95"/>
 <wire x1="116.84" y1="86.36" x2="132.08" y2="86.36" width="0.1524" layer="91"/>
 </segment>
+<segment>
+<pinref part="U1" gate="G$1" pin="PB6"/>
+<wire x1="180.34" y1="101.6" x2="157.48" y2="101.6" width="0.1524" layer="91"/>
+<label x="157.48" y="101.6" size="1.778" layer="95"/>
+</segment>
 </net>
 <net name="TOSC2" class="0">
 <segment>
@@ -11826,6 +12066,11 @@ distributor Buerklin, 17G584</description>
 <junction x="116.84" y="76.2"/>
 <label x="124.46" y="76.2" size="1.778" layer="95"/>
 <wire x1="116.84" y1="76.2" x2="132.08" y2="76.2" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U1" gate="G$1" pin="PB7"/>
+<wire x1="180.34" y1="99.06" x2="157.48" y2="99.06" width="0.1524" layer="91"/>
+<label x="157.48" y="99.06" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="D2" class="0">
@@ -11840,6 +12085,11 @@ distributor Buerklin, 17G584</description>
 <wire x1="38.1" y1="40.64" x2="15.24" y2="40.64" width="0.1524" layer="91"/>
 <label x="15.24" y="40.64" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="U1" gate="G$1" pin="PD2"/>
+<wire x1="210.82" y1="111.76" x2="226.06" y2="111.76" width="0.1524" layer="91"/>
+<label x="223.52" y="111.76" size="1.778" layer="95"/>
+</segment>
 </net>
 <net name="D3" class="0">
 <segment>
@@ -11851,6 +12101,11 @@ distributor Buerklin, 17G584</description>
 <junction x="40.64" y="25.4"/>
 <wire x1="40.64" y1="43.18" x2="15.24" y2="43.18" width="0.1524" layer="91"/>
 <label x="15.24" y="43.18" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="U1" gate="G$1" pin="PD3"/>
+<wire x1="210.82" y1="109.22" x2="226.06" y2="109.22" width="0.1524" layer="91"/>
+<label x="223.52" y="109.22" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="D4" class="0">
@@ -11866,6 +12121,11 @@ distributor Buerklin, 17G584</description>
 <wire x1="43.18" y1="45.72" x2="15.24" y2="45.72" width="0.1524" layer="91"/>
 <label x="15.24" y="45.72" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="U1" gate="G$1" pin="PD4"/>
+<wire x1="210.82" y1="106.68" x2="226.06" y2="106.68" width="0.1524" layer="91"/>
+<label x="223.52" y="106.68" size="1.778" layer="95"/>
+</segment>
 </net>
 <net name="D5" class="0">
 <segment>
@@ -11879,6 +12139,18 @@ distributor Buerklin, 17G584</description>
 <wire x1="45.72" y1="48.26" x2="15.24" y2="48.26" width="0.1524" layer="91"/>
 <junction x="45.72" y="20.32"/>
 <label x="15.24" y="48.26" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="U1" gate="G$1" pin="PD5"/>
+<wire x1="210.82" y1="104.14" x2="226.06" y2="104.14" width="0.1524" layer="91"/>
+<label x="223.52" y="104.14" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="N$4" class="0">
+<segment>
+<pinref part="U1" gate="G$1" pin="AREF"/>
+<pinref part="C3" gate="G$1" pin="2"/>
+<wire x1="180.34" y1="121.92" x2="175.26" y2="121.92" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>
