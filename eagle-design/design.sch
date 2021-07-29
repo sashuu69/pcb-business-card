@@ -11873,6 +11873,10 @@ distributor Buerklin, 17G584</description>
 <label x="220.98" y="73.66" size="1.778" layer="95"/>
 </segment>
 <segment>
+<pinref part="J2" gate="G$1" pin="SHIELD6"/>
+<wire x1="116.84" y1="45.72" x2="119.38" y2="45.72" width="0.1524" layer="91"/>
+<pinref part="J2" gate="G$1" pin="SHIELD5"/>
+<wire x1="116.84" y1="43.18" x2="119.38" y2="43.18" width="0.1524" layer="91"/>
 <pinref part="J2" gate="G$1" pin="SHIELD1"/>
 <wire x1="116.84" y1="33.02" x2="119.38" y2="33.02" width="0.1524" layer="91"/>
 <wire x1="119.38" y1="33.02" x2="119.38" y2="35.56" width="0.1524" layer="91"/>
@@ -11893,6 +11897,10 @@ distributor Buerklin, 17G584</description>
 <wire x1="119.38" y1="27.94" x2="119.38" y2="33.02" width="0.1524" layer="91"/>
 <junction x="119.38" y="27.94"/>
 <junction x="119.38" y="33.02"/>
+<wire x1="119.38" y1="43.18" x2="119.38" y2="40.64" width="0.1524" layer="91"/>
+<junction x="119.38" y="40.64"/>
+<wire x1="119.38" y1="45.72" x2="119.38" y2="43.18" width="0.1524" layer="91"/>
+<junction x="119.38" y="43.18"/>
 </segment>
 </net>
 <net name="5V" class="0">
