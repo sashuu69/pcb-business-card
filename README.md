@@ -8,9 +8,13 @@ My personal PCB business card
 
 ### Front
 
+![PCB - Front](docs/pcb_front.jpg)
+
 ![Front](docs/front.png)
 
 ### Bottom
+
+![PCB - Bottom](docs/pcb_bottom.jpg)
 
 ![Bottom](docs/bottom.png)
 
