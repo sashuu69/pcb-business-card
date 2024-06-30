@@ -3,7 +3,7 @@
 <eagle version="9.6.2">
 <drawing>
 <settings>
-<setting alwaysvectorfont="no"/>
+<setting alwaysvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="3" unitdist="mil" unit="mil" style="lines" multiple="1" display="yes" altdistance="5" altunitdist="mil" altunit="mil"/>
@@ -88,22 +88,21 @@
 <dimension x1="2.3114" y1="0.9144" x2="86.1114" y2="0.9144" x3="44.2114" y3="-11.43" textsize="1.778" layer="1"/>
 <text x="37.0332" y="41.402" size="6.35" layer="29">Sashwat K</text>
 <wire x1="36.322" y1="40.0558" x2="81.1276" y2="40.0558" width="0.8128" layer="29"/>
-<text x="33.0708" y="34.2392" size="1.778" layer="29">          CAD Engineer | DevOps Engineer
-Hardware Developer | Open Source Developer</text>
+<text x="40.1574" y="36.5252" size="1.9304" layer="29">Entrepreneur | Tech Enthusiast</text>
 <text x="82.6262" y="50.4444" size="1.27" layer="22" rot="MR0">Business Card</text>
 <text x="49.6824" y="24.9174" size="1.905" layer="29">- sashwat.in
 - hi@sashwat.in</text>
 <wire x1="2.5654" y1="47.8282" x2="7.3914" y2="52.3494" width="0.4572" layer="21" curve="-90"/>
-<wire x1="7.3914" y1="52.3494" x2="81.4832" y2="52.4002" width="0.4572" layer="21"/>
-<wire x1="81.4832" y1="52.4002" x2="85.8266" y2="48.9204" width="0.4572" layer="21" curve="-90"/>
-<wire x1="85.8266" y1="48.9204" x2="85.8266" y2="6.35" width="0.4572" layer="21"/>
-<wire x1="85.8266" y1="6.35" x2="80.8228" y2="1.2192" width="0.4572" layer="21" curve="-90"/>
+<wire x1="7.3914" y1="52.3494" x2="81.3308" y2="52.2478" width="0.4572" layer="21"/>
+<wire x1="81.3308" y1="52.2478" x2="85.8266" y2="48.6918" width="0.4572" layer="21" curve="-90"/>
+<wire x1="85.8266" y1="48.6918" x2="85.979" y2="6.2738" width="0.4572" layer="21"/>
+<wire x1="85.979" y1="6.2738" x2="80.8228" y2="1.2192" width="0.4572" layer="21" curve="-90"/>
 <wire x1="80.8228" y1="1.2192" x2="7.3914" y2="1.2192" width="0.4572" layer="21"/>
 <wire x1="7.3914" y1="1.2192" x2="2.6162" y2="6.0452" width="0.4572" layer="21" curve="-90"/>
 <wire x1="2.6162" y1="6.0452" x2="2.5654" y2="47.8282" width="0.4572" layer="21"/>
-<wire x1="7.0866" y1="52.4002" x2="81.8388" y2="52.4002" width="0.4572" layer="22"/>
-<wire x1="81.8388" y1="52.4002" x2="85.852" y2="48.387" width="0.4572" layer="22" curve="-90"/>
-<wire x1="85.852" y1="48.387" x2="85.852" y2="6.4262" width="0.4572" layer="22"/>
+<wire x1="7.0866" y1="52.4002" x2="81.6102" y2="52.324" width="0.4572" layer="22"/>
+<wire x1="81.6102" y1="52.324" x2="85.6234" y2="48.3108" width="0.4572" layer="22" curve="-90"/>
+<wire x1="85.6234" y1="48.3108" x2="85.852" y2="6.4262" width="0.4572" layer="22"/>
 <wire x1="85.852" y1="6.4262" x2="80.6196" y2="1.1938" width="0.4572" layer="22" curve="-90"/>
 <wire x1="80.6196" y1="1.1938" x2="7.239" y2="1.1938" width="0.4572" layer="22"/>
 <wire x1="7.239" y1="1.1938" x2="2.6162" y2="5.8166" width="0.4572" layer="22" curve="-90"/>
